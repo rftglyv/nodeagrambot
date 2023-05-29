@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  },
+  "name": "nodegram",
+  "description": "Simple NodeJS Telegram bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rftglyv/nodeagrambot.git"
+  },
+  "author": "rftglyv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rftglyv/nodeagrambot/issues"
+  },
+  "homepage": "https://github.com/rftglyv/nodeagrambot#readme"
+}
